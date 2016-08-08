@@ -1,0 +1,39 @@
+_repo: Dio-s-Rome-Volume-6--13-And-Alexander-Severus_12061
+_version: 0.0.1
+contributor:
+  translator:
+    agent_name: Foster, Herbert Baldwin
+    birthdate: 1874
+    deathdate: 1906
+    gutenberg_agent_id: '4575'
+    url: http://www.gutenberg.org/2009/agents/4575
+creator:
+  author:
+    agent_name: Cassius Dio Cocceianus
+    aliases:
+    - Dio, Cassius
+    - Dion Cassius Cocceianus
+    - Dio Cassius Cocceianus
+    - Cassio Dione
+    - Lucio Cassio Dione
+    gutenberg_agent_id: '3339'
+    url: http://www.gutenberg.org/2009/agents/3339
+    wikipedia: http://en.wikipedia.org/wiki/Cassius_Dio
+description: ''
+gutenberg_bookshelf: Classical Antiquity
+gutenberg_issued: '2004-04-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '12061'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Rome -- History'
+- !lcc 'DG'
+- GITenberg
+title: "Dio's Rome, Volume 6\r\nAn Historical Narrative Originally Composed in Greek\
+  \ During The\r\nReigns of Septimius Severus, Geta and Caracalla, Macrinus, Elagabalus\r\
+  \nAnd Alexander Severus"
+url: http://www.gutenberg.org/ebooks/12061
